@@ -86,12 +86,15 @@ export async function executePayment(
 
     if (!result.success) {
       const r = result as { errorMessage?: string; errorReason?: string };
+      const errorReason = r.errorReason ?? "unknown";
+      const errorMessage = r.errorMessage ?? "";
+      console.error(`[x402] settle failed — reason: ${errorReason}${errorMessage ? ` | message: ${errorMessage}` : ""}`);
       return {
         success: false,
         transactionId: "",
         hashscanUrl: "",
         amountHbar: tinybarsToHbar(amountTinybars),
-        errorMessage: r.errorMessage ?? r.errorReason ?? "unknown error",
+        errorMessage: errorReason,
       };
     }
 

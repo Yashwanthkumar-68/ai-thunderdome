@@ -82,8 +82,11 @@ export default function PaymentTicker({ events, agents, totalVolume }: Props) {
                     HashScan ↗
                   </a>
                 ) : (
-                  <span className="text-red-400">
-                    {evt.errorMessage ? `✗ ${evt.errorMessage.substring(0, 20)}` : "✗ failed"}
+                  <span
+                    className="text-red-400 truncate max-w-[160px] cursor-help"
+                    title={evt.errorMessage ?? "failed"}
+                  >
+                    ✗ {evt.errorMessage ?? "failed"}
                   </span>
                 )}
               </div>
