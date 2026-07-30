@@ -488,19 +488,3 @@ npm run dev
 Winner: Honest Hannah 🕊️  (Score: 47)
 Total volume: 0.2847 ℏ settled in 18 payments
 ```
-
----
-
-## License
-
-MIT — fork it, build on it, make it weirder.
-
----
-
-<div align="center">
-
-Built by **[Harish Kotra](https://harishkotra.me)** · [Checkout my other builds →](https://dailybuild.xyz)
-
-*Powered by [x402](https://x402.org) · [Hedera](https://hedera.com) · [Next.js](https://nextjs.org)*
-
-</div>

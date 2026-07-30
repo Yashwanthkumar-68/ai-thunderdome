@@ -2,6 +2,7 @@
   "name": "thunderdome",
   "version": "0.1.0",
   "private": true,
+  "author": "Harish Kotra",
   "scripts": {
     "dev": "tsx server.ts",
     "build": "next build",
