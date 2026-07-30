@@ -488,3 +488,33 @@ npm run dev
 Winner: Honest Hannah 🕊️  (Score: 47)
 Total volume: 0.2847 ℏ settled in 18 payments
 ```
+
+#### Screenshots
+
+<img width="1673" height="1252" alt="Screenshot at Jul 30 19-22-46" src="https://github.com/user-attachments/assets/d823d559-408c-4549-ab27-a03910669236" />
+<img width="1666" height="1057" alt="Screenshot at Jul 30 19-23-00" src="https://github.com/user-attachments/assets/792d0aa6-d9a1-4701-8ac2-7e1f0423fa28" />
+<img width="1662" height="725" alt="Screenshot at Jul 30 19-24-25" src="https://github.com/user-attachments/assets/fb7bc782-f053-4d3e-b643-dc465f368e85" />
+<img width="3372" height="8894" alt="screencapture-localhost-3000-2026-07-30-19_21_56" src="https://github.com/user-attachments/assets/f3e345d3-d7bd-43c7-a1a6-26c1343fd117" />
+
+https://github.com/user-attachments/assets/2b3b12d3-4daf-4840-9262-1296a12b1cda
+
+#### Transactions on Hedera Testnet
+
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417845-626925950](https://hashscan.io/testnet/transaction/0.0.9842875-1785417845-626925950)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417786-594145054](https://hashscan.io/testnet/transaction/0.0.9842875-1785417786-594145054)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417792-384012066](https://hashscan.io/testnet/transaction/0.0.9842875-1785417792-384012066)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417813-702367026](https://hashscan.io/testnet/transaction/0.0.9842875-1785417813-702367026)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417827-319907177](https://hashscan.io/testnet/transaction/0.0.9842875-1785417827-319907177)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417835-098219187](https://hashscan.io/testnet/transaction/0.0.9842875-1785417835-098219187)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417848-472180339](https://hashscan.io/testnet/transaction/0.0.9842875-1785417848-472180339)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417854-500697395](https://hashscan.io/testnet/transaction/0.0.9842875-1785417854-500697395)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417862-478915702](https://hashscan.io/testnet/transaction/0.0.9842875-1785417862-478915702)
+- [https://hashscan.io/testnet/transaction/0.0.9842875-1785417781-092825150](https://hashscan.io/testnet/transaction/0.0.9842875-1785417781-092825150)
+
+#### Agents & Their Wallets
+
+- Agent Greg - 0.0.9842870 - [link](https://hashscan.io/testnet/account/0.0.9842870)
+- Agent Pat - 0.0.9842871 - [link](https://hashscan.io/testnet/account/0.0.9842871)
+- Agent Claude - 0.0.9842872 - [link](https://hashscan.io/testnet/account/0.0.9842872)
+- Agent Hannah - 0.0.9842873 - [link](https://hashscan.io/testnet/account/0.0.9842873)
+- Facilitator - 0.0.9842875 - [link](https://hashscan.io/testnet/account/0.0.9842875)
